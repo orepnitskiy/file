@@ -2,8 +2,7 @@ import os
 import tempfile
 
 """
-You can use that class to write data to the file, sum files and iterate within strings in the file
-"""
+You can use that class to write data to the file, sum files and iterate within strings in the file """
 
 
 class File():
