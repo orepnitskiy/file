@@ -1,2 +1,2 @@
 # file
-You can see all documentation in main script in docstrings (file.py)
+You can see all documentation to that script in docstrings in file.py
